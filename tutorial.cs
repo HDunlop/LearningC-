@@ -9,6 +9,8 @@ class Program
     Console.ReadLine("type smthing...\n");
 
     // variables
-    string exampleVar = "e.g.";
+    string exampleStringVar = "e.g.";
+    int exampleIntVar;
+    exampleIntVar = 69;
   }
 }
